@@ -1,9 +1,5 @@
 # react-ts-app
 
-[![Build Status](https://travis-ci.org/genki-sano/react-ts-app.svg?branch=master)](https://travis-ci.org/genki-sano/react-ts-app)
-[![Coverage Status](https://coveralls.io/repos/github/genki-sano/react-ts-app/badge.svg?branch=master)](https://coveralls.io/github/genki-sano/react-ts-app?branch=master)
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-
 ## About react-ts-app
 
 react-ts-app is an example [React](https://github.com/facebook/react) and [Typescript](https://github.com/microsoft/TypeScript) app using [create-react-app](https://github.com/facebook/create-react-app).
